@@ -1,0 +1,61 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      color: #fff;
+}
+.menu {
+	background: #34495e;
+}
+.hero-bg{
+      background:#e67e22;
+      padding: 150px 0;
+}
+.hero-img{
+      box-shadow: 10px 10px 6px 2px rgb(246, 236, 236);
+}
+.title-area{
+      background: #34495e;
+}
+.content-area{
+      background:#9b59b6;
+}
+.sub-title{
+      color: #349add;
+}
+.green{
+      color:#188753;
+}
+.yellow{
+      color:#f2c50e;
+}
+.ash{
+      color:#95a5a6 ;
+}
+.box-shadow-area{
+      background: #ff9814;
+}
+.box{
+      width: 100%;
+      height: 150px;
+      background: #dcdcdc;
+      border: 3px dashed black;
+      border-radius:5px;
+      box-shadow: 15px 15px #f9f9f9;
+}
+.box span {
+	display: inline-block;
+	color: #000;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	font-size: 50px;
+	font-weight: 700;
+}
+
+.footer{
+      background: #34495e;
+}
+
+
+/* project done */
